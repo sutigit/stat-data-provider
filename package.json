@@ -1,0 +1,16 @@
+{
+  "name": "stat-data-provider",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/example.ts"
+  },
+  "author": "sutigit",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
